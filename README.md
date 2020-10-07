@@ -2,6 +2,8 @@
 
 This module changes your device props to the Google Pixel 5 Props
 
+This will work on ANY device running android 11
+
 ### features:
 
 1. Pixel 5 Wallpapers
