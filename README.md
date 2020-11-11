@@ -18,4 +18,4 @@ You can uninstall by just disabling or removing the module in Magisk.
 
 ## More Info:
 
-http://magisk.waksite.space/
+https://pixel-fy.com/spoof/
